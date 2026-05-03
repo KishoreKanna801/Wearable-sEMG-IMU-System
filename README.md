@@ -19,7 +19,7 @@ Sensors collect neuromuscular + motion data → signals processed using filterin
 ## 📸 Project Demo
 
 ### 🔧 Hardware Setup
-![Hardware](Picture 4.jpg)
+![Hardware](Picture4.jpg)
 
 ### 📱 Readings
 ![Readings](Picture2.png)
