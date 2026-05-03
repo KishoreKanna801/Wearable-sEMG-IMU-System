@@ -22,8 +22,8 @@ Sensors collect neuromuscular + motion data → signals processed using filterin
 ![Hardware](Picture 4.jpg)
 
 ### 📱 Readings
-![Readings](Picture 2.png)
-![Readings](Picture 3.png)
+![Readings](Picture2.png)
+![Readings](Picture3.png)
 
 ## ⚡ Future Improvements
 - Machine learning for classification
