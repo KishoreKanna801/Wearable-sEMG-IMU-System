@@ -16,6 +16,7 @@ A wearable system designed to analyze muscle activity and body motion using sEMG
 ## 🔄 How It Works
 Sensors collect neuromuscular + motion data → signals processed using filtering & RMS → patterns analyzed.
 
+
 ## 📸 Project Demo
 
 ### 🔧 Hardware Setup
