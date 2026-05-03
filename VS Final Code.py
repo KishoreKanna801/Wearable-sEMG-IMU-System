@@ -1,10 +1,3 @@
-VS Final Code
-
-
-
-
-
-
 import serial
 import csv
 import time
